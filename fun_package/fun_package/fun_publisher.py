@@ -4,7 +4,7 @@ fun_publisher.py
 This script defines a ROS 2 publisher node that publishes string messages to the '/fun_topic' topic.
 The node increments a counter and includes it in the message being published every second.
 
-Author: trijeetkr.modak
+Author: Trijeet Modak
 Email: uniquetrij@gmail.com
 License: Apache-2.0
 """

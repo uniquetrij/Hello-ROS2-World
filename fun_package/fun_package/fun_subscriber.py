@@ -3,7 +3,7 @@ fun_subscriber.py
 
 This script defines a ROS 2 subscriber node that listens to string messages on the '/fun_topic' topic.
 
-Author: trijeetkr.modak
+Author: Trijeet Modak
 Email: uniquetrij@gmail.com
 License: Apache-2.0
 """
